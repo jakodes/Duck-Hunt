@@ -1,2 +1,2 @@
-# Gravity-Rush
-Using Claude Code to develop a Gravity Rush style game
+# Duck-Hunt
+Using Claude Code to develop a Duck Hunt style game
